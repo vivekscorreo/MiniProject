@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.cg.dto.ProgramScheduled" project="UASApplication2" 
+    file="/UASApplication2/src/com/cg/dto/ProgramScheduled.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="279" x="7" y="-229"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.cg.dto.Application" project="UASApplication2" 
+    file="/UASApplication2/src/com/cg/dto/Application.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="711" width="400" x="326" y="-229"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.cg.dto.Users" project="UASApplication2" 
+    file="/UASApplication2/src/com/cg/dto/Users.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="153" x="766" y="-229"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.cg.dto.Participant" project="UASApplication2" 
+    file="/UASApplication2/src/com/cg/dto/Participant.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="188" x="959" y="-229"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.cg.dto.ProgramOffered" project="UASApplication2" 
+    file="/UASApplication2/src/com/cg/dto/ProgramOffered.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="247" x="1187" y="-229"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
